@@ -176,10 +176,18 @@ int main()
   richard.forgetSpell("Fwoosh");
   richard.launchSpell("Fwoosh", bob);
 }
+  
+```
+```cmd
+ ~$ ./a.out | cat -e
+Richard: This looks like another boring day.$
+Richard: I am Richard, the Titled!$
+Target Practice Dummy has been fwooshed!$
+Richard: My job here is done!$
 ```
 
 ### Instructions
-```sh
+```cmd
 make
 ```
 Le main se situe dans le module02 (il peut-être modifier et tester pour les autres modules)
