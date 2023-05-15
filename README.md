@@ -74,6 +74,17 @@ int main()
   return (0);
 }
   ```
+ ```sh ./a.out | cat -e
+Richard: This looks like another boring day.$
+Richard: I am Richard, Mistress of Magma!$
+Richard - Mistress of Magma$
+Jack: This looks like another boring day.$
+Jack: I am Jack, the Long!$
+Jack: I am Jack, the Mighty!$
+Jack: My job here is done!$
+Richard: My job here is done!$
+~$
+  ```
 ##  CPP_MODULE_01
 ### Expected files   :            
                                   Warlock.cpp Warlock.hpp
