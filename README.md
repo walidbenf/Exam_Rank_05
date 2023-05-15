@@ -1,6 +1,6 @@
 # Exam_Rank_05 de 42
 
-## cpp_module00
+## CPP_MODULE00
 
 ### Expected files   : Warlock.cpp Warlock.hpp
 --------------------------------------------------------------------------------
