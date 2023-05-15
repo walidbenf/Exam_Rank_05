@@ -1,6 +1,6 @@
 # Exam_Rank_05 42
 
-## CPP_MODULE00
+## CPP_MODULE_00
 
 ### Expected files   : Warlock.cpp Warlock.hpp
 --------------------------------------------------------------------------------
@@ -73,7 +73,7 @@ int main()
   return (0);
 }
   ```
-##  CPP_MODULE01
+##  CPP_MODULE_01
 Expected files   : Warlock.cpp Warlock.hpp
                    ASpell.hpp ASpell.cpp
                                    ATarget.hpp ATarget.cpp
