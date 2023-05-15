@@ -1,4 +1,4 @@
-# Exam_Rank_05 de 42
+# Exam_Rank_05 42
 
 ## CPP_MODULE00
 
