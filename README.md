@@ -74,11 +74,11 @@ int main()
 }
   ```
 ##  CPP_MODULE_01
-### Expected files   : Warlock.cpp Warlock.hpp
-                   ASpell.hpp ASpell.cpp
-                                   ATarget.hpp ATarget.cpp
-                                   Fwoosh.hpp Fwoosh.cpp
-                                   Dummy.hpp Dummy.cpp
+### Expected files   :             Warlock.cpp Warlock.hpp
+                                  ASpell.hpp ASpell.cpp
+                                  ATarget.hpp ATarget.cpp
+                                  Fwoosh.hpp Fwoosh.cpp
+                                  Dummy.hpp Dummy.cpp
 --------------------------------------------------------------------------------
 
 In the Warlock class, the switch statement is FORBIDDEN and its use would
@@ -168,4 +168,4 @@ int main()
 ```sh
 make
 ```
-### Le main se situe dans le module02 (il peut-être modifier et tester pour les autres modules)
+Le main se situe dans le module02 (il peut-être modifier et tester pour les autres modules)
