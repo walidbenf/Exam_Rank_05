@@ -74,7 +74,7 @@ int main()
 }
   ```
 ##  CPP_MODULE_01
-Expected files   : Warlock.cpp Warlock.hpp
+### Expected files   : Warlock.cpp Warlock.hpp
                    ASpell.hpp ASpell.cpp
                                    ATarget.hpp ATarget.cpp
                                    Fwoosh.hpp Fwoosh.cpp
@@ -146,6 +146,7 @@ types fit the bill, it's up to you to choose the best one.
 
 Below is a possible test main and its expected output:
 
+  ```
 int main()
 {
   Warlock richard("Richard", "the Titled");
@@ -161,7 +162,7 @@ int main()
   richard.forgetSpell("Fwoosh");
   richard.launchSpell("Fwoosh", bob);
 }
-
+```
 
 ### Instructions
 ```sh
