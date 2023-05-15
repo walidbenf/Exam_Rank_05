@@ -74,7 +74,7 @@ int main()
   return (0);
 }
   ```
- ```sh ./a.out | cat -e
+ ```cmd ./a.out | cat -e
 Richard: This looks like another boring day.$
 Richard: I am Richard, Mistress of Magma!$
 Richard - Mistress of Magma$
