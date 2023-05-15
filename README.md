@@ -54,7 +54,8 @@ It must display:
 <NAME>: I am <NAME>, <TITLE>!
 
 Here's an example of a test main function and its associated output:
-
+  
+```sh
 int main()
 {
   Warlock const richard("Richard", "Mistress of Magma");
@@ -70,6 +71,7 @@ int main()
 
   return (0);
 }
+  ```
 
 ### Instructions
 ```sh
