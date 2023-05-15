@@ -1,5 +1,6 @@
 # Exam_Rank_05 de 42
-### Assignment name  : cpp_module00
+
+## cpp_module00
 
 ### Expected files   : Warlock.cpp Warlock.hpp
 --------------------------------------------------------------------------------
