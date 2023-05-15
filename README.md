@@ -56,7 +56,7 @@ It must display:
 
 Here's an example of a test main function and its associated output:
   
-```sh
+```cpp
 int main()
 {
   Warlock const richard("Richard", "Mistress of Magma");
@@ -146,7 +146,7 @@ types fit the bill, it's up to you to choose the best one.
 
 Below is a possible test main and its expected output:
 
-  ```
+  ```cpp
 int main()
 {
   Warlock richard("Richard", "the Titled");
