@@ -242,6 +242,7 @@ It will have the following functions:
 Phew, that's done. Now here's a test main. It's not very thorough, so make sure
 to use your own aswell.
 
+```cpp
 int main()
 {
   Warlock richard("Richard", "foo");
@@ -264,7 +265,9 @@ int main()
   richard.launchSpell("Polymorph", *wall);
   richard.launchSpell("Fireball", *wall);
 }
-
+```
+  
+```cmd  
 ~$ ./a.out | cat -e
 Richard: This looks like another boring day.$
 Richard: I am Richard, Hello, I'm Richard the Warlock!!$
@@ -272,6 +275,7 @@ Inconspicuous Red-brick Wall has been turned into a critter!$
 Inconspicuous Red-brick Wall has been burnt to a crisp!$
 Richard: My job here is done!$
 ~$
+```
 ### Instructions
 ```cmd
 make
