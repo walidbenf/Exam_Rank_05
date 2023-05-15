@@ -79,7 +79,6 @@ int main()
                                   ATarget.hpp ATarget.cpp
                                   Fwoosh.hpp Fwoosh.cpp
                                   Dummy.hpp Dummy.cpp
---------------------------------------------------------------------------------
 
 In the Warlock class, the switch statement is FORBIDDEN and its use would
 result in a -42.
