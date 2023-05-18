@@ -281,4 +281,5 @@ Richard: My job here is done!$
 make
 ```
 Le main est celui du module02 (il peut-être modifier et tester pour les autres modules)
+  
 Le makefile compile les fichiers du cpp_module02
