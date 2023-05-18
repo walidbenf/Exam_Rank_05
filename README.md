@@ -280,4 +280,5 @@ Richard: My job here is done!$
 ```cmd
 make
 ```
-Le main se situe dans le module02 (il peut-être modifier et tester pour les autres modules)
+Le main est celui du module02 (il peut-être modifier et tester pour les autres modules)
+Le makefile compile les fichiers du cpp_module02
