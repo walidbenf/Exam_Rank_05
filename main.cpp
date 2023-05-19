@@ -1,10 +1,11 @@
 #include "cpp_module02/Warlock.hpp"
-#include "cpp_module02/Fwoosh.hpp"
 #include "cpp_module02/Dummy.hpp"
-#include "cpp_module02/Fireball.hpp"
+#include "cpp_module02/Fwoosh.hpp"
 #include "cpp_module02/Polymorph.hpp"
-#include "cpp_module02/BrickWall.hpp"
+#include "cpp_module02/Fireball.hpp"
 #include "cpp_module02/TargetGenerator.hpp"
+#include "cpp_module02/BrickWall.hpp"
+
 int main()
 {
   Warlock richard("Richard", "foo");
